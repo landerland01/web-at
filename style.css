@@ -92,7 +92,7 @@ color: #696969;
 #tw{
     font-size: 150%;
     font-family: 'Oswald', sans-serif;
-    padding-top: 5%;
+    padding-top: 9%;
     padding-bottom: 2%;
     text-align: center;
 }
@@ -197,7 +197,8 @@ color: #696969;
 }
 
 .Mwk{
-    width: auto;
+    /* width: auto; */
+    width: 20%;
     height: 20%;
     padding-left: 40%;
     padding-top: 2%;
